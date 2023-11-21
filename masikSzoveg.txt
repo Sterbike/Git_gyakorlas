@@ -1,1 +1,2 @@
-Másik szöveg első sor
+Másik szöveg első sor.
+Másik szöveg Második sor.
